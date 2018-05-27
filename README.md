@@ -1,8 +1,8 @@
-#Ruby practice exercise to go up to HEROKU
+# Ruby practice exercise to go up to HEROKU
 
-#by: Armando Jose Rojas Querales 
+# by: Armando Jose Rojas Querales 
 
-##16/05/2018
+## 16/05/2018
 
 
 # Para subir una Aplicacion en Heroku se instala el cliente
